@@ -1,4 +1,4 @@
-# Weather App
+# Weather App HTML
 
 A simple web-based weather application that allows users to fetch the current weather details of any city. The weather data is fetched dynamically using the OpenWeatherMap API.
 
